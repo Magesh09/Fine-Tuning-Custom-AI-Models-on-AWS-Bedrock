@@ -9,7 +9,7 @@ You can upload your own training datasets, configure hyperparameters, and launch
 
 ## Architecture Diagram
 
-![Architecture Diagram Placeholder](images/architecture.png)
+![Architecture Diagram Placeholder](architecture.png)
 
 ---
 
